@@ -1,6 +1,6 @@
 # gesturesend
 
-A new Flutter project.
+An air gesture file transfer app, just like huwei .
 
 ## Getting Started
 
