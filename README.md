@@ -1,6 +1,6 @@
 # gesturesend
 
-An air gesture file transfer app, just like huwei .
+An attemt to make sharing of files easier by just hand gestures from one device to another .
 
 ## Getting Started
 
